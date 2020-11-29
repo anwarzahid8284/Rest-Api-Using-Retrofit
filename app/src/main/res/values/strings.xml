@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitMysql</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="loginBtn">Login</string>
+    <string name="registeredBtn">Registered</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
